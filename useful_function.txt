@@ -1,0 +1,42 @@
+
+let a=[1,2,3,4,5];
+
+// access the element of array 
+
+Array.from(a).forEach(function(i){
+consle.log(i);
+});
+
+//evaluate the string
+let s="1*2";
+eval(s);
+
+//input tag value show
+<input class="op">
+str="5"
+document.querySelector('.op').value=str;
+
+//try catch 
+try{
+
+}
+catch(e){
+console.log(e or anything);
+}
+
+
+
+
+
+
+
+
+//css-part
+
+//it makes border as bright as background
+box-shadow:down right blursize color, up left blursize color;
+box-shadow:-5px -5px 15px grey, 5px 5px 15px grey;
+
+//background color appera front
+background : transparent;
+
